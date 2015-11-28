@@ -18,7 +18,7 @@ rich@richgarner.net
 
 Summary
 -------
-
+c
 I am an experienced and naturally driven software developer, looking to find an organisation in which I am given the opportunity to embrace new, exciting technologies to feed my natural drive to create the best software solutions. I articulate myself clearly and consider this to be an important and often overlooked aspect of being a good software developer. I have familiarity with working in an Agile Development environment and a certified Scrum Master.
 
 Key Skills
